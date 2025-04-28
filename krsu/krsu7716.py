@@ -1,0 +1,5 @@
+n = int(input())
+a = int(input())
+b = int(input())
+print(abs(a-b))
+print(abs(n-b))

@@ -1,0 +1,3 @@
+a = input('Enter text: ')
+b = a[:3]
+print(b)

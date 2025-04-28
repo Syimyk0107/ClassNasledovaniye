@@ -1,0 +1,25 @@
+# #first
+# numbers = [1, 5, 4, 12, 9]
+# numbers.remove(4) 
+# print(numbers)
+
+# #second
+# my_list = ['orange','apple','watermelon']
+# my_list.append('carrot')
+# print(my_list) 
+
+# #third
+# numbers = [3, 1, 4, 1, 5, 9, 2]
+# a = numbers[5:7:1]
+# print(a)
+
+# #fourth
+# a = 'Hello my name is '
+# b = 'Syimyk'
+# c = a+b
+# print(c)
+
+#fifth
+a =['am','do','we']
+a[1]='an'
+print(a)

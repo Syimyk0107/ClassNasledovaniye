@@ -1,0 +1,3 @@
+a = 'Salam, '
+b = 'Kyrgyzstan !'
+print(a+b)
